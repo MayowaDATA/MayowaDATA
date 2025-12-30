@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m @MayowaDATA
 
-<!--
-**MayowaDATA/MayowaDATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | Nature Photographer
 
-Here are some ideas to get you started:
+I turn raw data into actionable stories to solve business problems. Whether it's fixing security gaps or improving workforce culture, I let the numbers lead the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 **Interests:** Data Visualization, Security Auditing, and Nature Photography.
+- 🌱 **Learning:** Health Data and Advancing Analytics.
+- 💞️ **Collabs:** Open-source data projects and creative digital imagery.
+
+---
+
+### 💼 Portfolio & Contact
+- 📂 **Analytics Projects:** [View Portfolio](https://shorturl.at/maM8t)
+- 📸 **Photography:** [Behance](https://www.behance.net/mayowaadeboye)
+- 🔗 **LinkedIn:** [Mayowa Adeboye](http://www.linkedin.com/in/mayowaadeboye)
+- 📧 **Email:** adeboyemayowa86@gmail.com
+
+*"Data is the story, I'm just the storyteller."*
 -->
